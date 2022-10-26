@@ -19,3 +19,15 @@ we need to add projects to solutions using 'dotnet sln add API/'
 
 we eneter into API and use 
 dotnet add reference ../Application
+
+
+anything is square bracket is an attribute
+
+Entity frameowkr is am ORM, ORM allows us to write C# code to query Database
+
+Create DB COntext in Persistence
+install EF
+
+dotnet tool list --global --- to check the your net tools if installed 
+
+dotnet ef migrations add InitialCreate -p .\Persistence\ -s API   - Persistence for where we want to put it and API for where start up class is 
