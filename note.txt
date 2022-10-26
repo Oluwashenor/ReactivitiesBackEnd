@@ -1,0 +1,21 @@
+API - Recieves the HTTP Request and Response to Them (Depends on Application)
+Application - Process Business Logic (Depends on Domain)
+Domain - Contains Business Entities (At the center of everything)
+Persistence - Provides the connectiom to the databse and translate the code into SQL Queries (Depends on Domain and Application)
+
+Create Project
+dotnet --info  - shows dotnet info your your computer
+dotnet -h - it shows list of available dotnet commands
+dotnet new -l -- shows list of template available to create new dotnet project or files 
+
+
+First Create a solution file
+dotnet new sln
+
+dotnet new webapi -n API -- the '-n' creates a folder that contains the project content
+dotnet new classlib -n Persistence - creates the class lib for Persistence in its folder
+
+we need to add projects to solutions using 'dotnet sln add API/'
+
+we eneter into API and use 
+dotnet add reference ../Application
