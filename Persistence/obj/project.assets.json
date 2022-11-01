@@ -1198,8 +1198,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "c:\\Users\\Shenor\\source\\repos\\Reactivities\\Domain\\Domain.csproj": {
-              "projectPath": "c:\\Users\\Shenor\\source\\repos\\Reactivities\\Domain\\Domain.csproj"
+            "C:\\Users\\Shenor\\source\\repos\\Reactivities\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Shenor\\source\\repos\\Reactivities\\Domain\\Domain.csproj"
             }
           }
         }

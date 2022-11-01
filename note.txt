@@ -54,3 +54,6 @@ Application project contains all business Logics
 
 
 dotnet build, to restore project - sometimes in case packages dont reflect
+
+ public async Task<IActionResult> CreateActivity(Activity activity) // Its smart enough to look for the data from the body
+

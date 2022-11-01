@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "c:\\Users\\Shenor\\source\\repos\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "c:\\Users\\Shenor\\source\\repos\\Reactivities\\Domain\\Domain.csproj"
+              "C:\\Users\\Shenor\\source\\repos\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Shenor\\source\\repos\\Reactivities\\Domain\\Domain.csproj"
               },
               "C:\\Users\\Shenor\\source\\repos\\Reactivities\\Persistence\\Persistence.csproj": {
                 "projectPath": "C:\\Users\\Shenor\\source\\repos\\Reactivities\\Persistence\\Persistence.csproj"
@@ -72,14 +72,14 @@
         }
       }
     },
-    "c:\\Users\\Shenor\\source\\repos\\Reactivities\\Domain\\Domain.csproj": {
+    "C:\\Users\\Shenor\\source\\repos\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Shenor\\source\\repos\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Shenor\\source\\repos\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "c:\\Users\\Shenor\\source\\repos\\Reactivities\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Shenor\\source\\repos\\Reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Shenor\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Shenor\\source\\repos\\Reactivities\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Shenor\\source\\repos\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Shenor\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -151,8 +151,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "c:\\Users\\Shenor\\source\\repos\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "c:\\Users\\Shenor\\source\\repos\\Reactivities\\Domain\\Domain.csproj"
+              "C:\\Users\\Shenor\\source\\repos\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Shenor\\source\\repos\\Reactivities\\Domain\\Domain.csproj"
               }
             }
           }
