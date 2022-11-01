@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Oyj9nnkkiOy0awY3F1EtaIkApJmkGUN7Jo3UidnZrmIcZKo/UPMXMz2BggAQhxHkwl+BJbCUetP+Jgh8xL/sRg==",
+  "dgSpecHash": "k9rYBhc6r2AgUHDoJPZPJipyB/w1mpZnOmHbSJB9zwENyO0qpF/9xjNpZJkEJlyWsvmG+HHmUwo0kWAcwJIARw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Shenor\\source\\repos\\Reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shenor\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\Shenor\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\Shenor\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Shenor\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
     "C:\\Users\\Shenor\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.10\\microsoft.data.sqlite.core.6.0.10.nupkg.sha512",
     "C:\\Users\\Shenor\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.10\\microsoft.entityframeworkcore.6.0.10.nupkg.sha512",
     "C:\\Users\\Shenor\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.10\\microsoft.entityframeworkcore.abstractions.6.0.10.nupkg.sha512",

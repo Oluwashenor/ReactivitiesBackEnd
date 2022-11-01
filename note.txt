@@ -30,4 +30,27 @@ install EF
 
 dotnet tool list --global --- to check the your net tools if installed 
 
-dotnet ef migrations add InitialCreate -p .\Persistence\ -s API   - Persistence for where we want to put it and API for where start up class is 
+dotnet ef migrations add InitialCreate -p .\Persistence\ -s API   - Persistence for where we want to put it and API for where start up class is ]
+
+
+Learning Goals
+Clean Architecture Pattern
+CQRS + Mediator Pattern (Command Query Responsibilty Segregation)
+Mor elike command and query seperation 
+Command 
+- DOes something
+Modifies state 
+should not return a value
+e.g Creating, deleting
+
+Query 
+ANswers a question
+does not modify state 
+should return a value 
+e.g returning single or list of things
+
+
+Application project contains all business Logics
+
+
+dotnet build, to restore project - sometimes in case packages dont reflect
